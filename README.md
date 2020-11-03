@@ -1,19 +1,3 @@
----
-tags: czechitas
-lang: cs
-slideOptions:
-    transition: none
-    theme: night
-    margin: 0.05
-    minScale: 0.1
-    maxScale: 5
-    width: 2560
-    height: 1600
-title: Lekce 08 | Tvořím web A–Z
----
-
-{%hackmd anYwyN--TziyASUWcqP-Gw %}
-
 # Tvořím web A–Z: lekce 08
 
 <span>3. 11. 2020 | 18:00 - 20:00 | Praha</span>
